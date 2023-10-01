@@ -13,6 +13,19 @@
 		EC0928C42AC9B393002DFCF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0928C22AC9B393002DFCF3 /* Main.storyboard */; };
 		EC0928C62AC9B394002DFCF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC0928C52AC9B394002DFCF3 /* Assets.xcassets */; };
 		EC0928C92AC9B394002DFCF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0928C72AC9B394002DFCF3 /* LaunchScreen.storyboard */; };
+		EC0928D12AC9B89A002DFCF3 /* GifLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0928D02AC9B89A002DFCF3 /* GifLoader.swift */; };
+		EC0928D32AC9B8CC002DFCF3 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928D22AC9B8CC002DFCF3 /* 1.gif */; };
+		EC0928D52AC9BA2D002DFCF3 /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928D42AC9BA2D002DFCF3 /* 2.gif */; };
+		EC0928D82AC9BB1C002DFCF3 /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928D72AC9BB1C002DFCF3 /* 3.gif */; };
+		EC0928DA2AC9BB24002DFCF3 /* 4.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928D92AC9BB24002DFCF3 /* 4.gif */; };
+		EC0928DC2AC9BB2E002DFCF3 /* 5.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928DB2AC9BB2E002DFCF3 /* 5.gif */; };
+		EC0928DE2AC9BB39002DFCF3 /* 6.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928DD2AC9BB39002DFCF3 /* 6.gif */; };
+		EC0928E02AC9BB48002DFCF3 /* 7.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928DF2AC9BB48002DFCF3 /* 7.gif */; };
+		EC0928E22AC9BB57002DFCF3 /* 8.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928E12AC9BB57002DFCF3 /* 8.gif */; };
+		EC0928E42AC9BB62002DFCF3 /* 9.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928E32AC9BB62002DFCF3 /* 9.gif */; };
+		EC0928E62AC9BB6B002DFCF3 /* 10.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928E52AC9BB6B002DFCF3 /* 10.gif */; };
+		EC0928E82AC9BB76002DFCF3 /* 11.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928E72AC9BB76002DFCF3 /* 11.gif */; };
+		EC0928EA2AC9BB83002DFCF3 /* 12.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC0928E92AC9BB83002DFCF3 /* 12.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		EC0928C52AC9B394002DFCF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC0928C82AC9B394002DFCF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC0928CA2AC9B394002DFCF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC0928D02AC9B89A002DFCF3 /* GifLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifLoader.swift; sourceTree = "<group>"; };
+		EC0928D22AC9B8CC002DFCF3 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
+		EC0928D42AC9BA2D002DFCF3 /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
+		EC0928D72AC9BB1C002DFCF3 /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
+		EC0928D92AC9BB24002DFCF3 /* 4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 4.gif; sourceTree = "<group>"; };
+		EC0928DB2AC9BB2E002DFCF3 /* 5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 5.gif; sourceTree = "<group>"; };
+		EC0928DD2AC9BB39002DFCF3 /* 6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 6.gif; sourceTree = "<group>"; };
+		EC0928DF2AC9BB48002DFCF3 /* 7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 7.gif; sourceTree = "<group>"; };
+		EC0928E12AC9BB57002DFCF3 /* 8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 8.gif; sourceTree = "<group>"; };
+		EC0928E32AC9BB62002DFCF3 /* 9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 9.gif; sourceTree = "<group>"; };
+		EC0928E52AC9BB6B002DFCF3 /* 10.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 10.gif; sourceTree = "<group>"; };
+		EC0928E72AC9BB76002DFCF3 /* 11.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 11.gif; sourceTree = "<group>"; };
+		EC0928E92AC9BB83002DFCF3 /* 12.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 12.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +84,34 @@
 			children = (
 				EC0928BC2AC9B393002DFCF3 /* AppDelegate.swift */,
 				EC0928BE2AC9B393002DFCF3 /* SceneDelegate.swift */,
+				EC0928D02AC9B89A002DFCF3 /* GifLoader.swift */,
 				EC0928C02AC9B393002DFCF3 /* ViewController.swift */,
 				EC0928C22AC9B393002DFCF3 /* Main.storyboard */,
+				EC0928D62AC9BA38002DFCF3 /* Gifs */,
 				EC0928C52AC9B394002DFCF3 /* Assets.xcassets */,
 				EC0928C72AC9B394002DFCF3 /* LaunchScreen.storyboard */,
 				EC0928CA2AC9B394002DFCF3 /* Info.plist */,
 			);
 			path = LessonTwo;
+			sourceTree = "<group>";
+		};
+		EC0928D62AC9BA38002DFCF3 /* Gifs */ = {
+			isa = PBXGroup;
+			children = (
+				EC0928D22AC9B8CC002DFCF3 /* 1.gif */,
+				EC0928D42AC9BA2D002DFCF3 /* 2.gif */,
+				EC0928D72AC9BB1C002DFCF3 /* 3.gif */,
+				EC0928D92AC9BB24002DFCF3 /* 4.gif */,
+				EC0928DB2AC9BB2E002DFCF3 /* 5.gif */,
+				EC0928DD2AC9BB39002DFCF3 /* 6.gif */,
+				EC0928DF2AC9BB48002DFCF3 /* 7.gif */,
+				EC0928E12AC9BB57002DFCF3 /* 8.gif */,
+				EC0928E32AC9BB62002DFCF3 /* 9.gif */,
+				EC0928E52AC9BB6B002DFCF3 /* 10.gif */,
+				EC0928E72AC9BB76002DFCF3 /* 11.gif */,
+				EC0928E92AC9BB83002DFCF3 /* 12.gif */,
+			);
+			path = Gifs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC0928DA2AC9BB24002DFCF3 /* 4.gif in Resources */,
+				EC0928E62AC9BB6B002DFCF3 /* 10.gif in Resources */,
 				EC0928C92AC9B394002DFCF3 /* LaunchScreen.storyboard in Resources */,
+				EC0928D82AC9BB1C002DFCF3 /* 3.gif in Resources */,
+				EC0928D52AC9BA2D002DFCF3 /* 2.gif in Resources */,
+				EC0928EA2AC9BB83002DFCF3 /* 12.gif in Resources */,
 				EC0928C62AC9B394002DFCF3 /* Assets.xcassets in Resources */,
+				EC0928DC2AC9BB2E002DFCF3 /* 5.gif in Resources */,
+				EC0928E82AC9BB76002DFCF3 /* 11.gif in Resources */,
+				EC0928DE2AC9BB39002DFCF3 /* 6.gif in Resources */,
+				EC0928D32AC9B8CC002DFCF3 /* 1.gif in Resources */,
+				EC0928E42AC9BB62002DFCF3 /* 9.gif in Resources */,
 				EC0928C42AC9B393002DFCF3 /* Main.storyboard in Resources */,
+				EC0928E22AC9BB57002DFCF3 /* 8.gif in Resources */,
+				EC0928E02AC9BB48002DFCF3 /* 7.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +200,7 @@
 				EC0928C12AC9B393002DFCF3 /* ViewController.swift in Sources */,
 				EC0928BD2AC9B393002DFCF3 /* AppDelegate.swift in Sources */,
 				EC0928BF2AC9B393002DFCF3 /* SceneDelegate.swift in Sources */,
+				EC0928D12AC9B89A002DFCF3 /* GifLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
